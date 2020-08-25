@@ -1,19 +1,104 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "products": [
+        {
+            "id": 1,
+            "title": "Product One",
+            "price": 5000,
+            "brief": "This is a brief overview for this product and will be replaced soon with a real data whenever we use this demo",
+            "rating": 3.5,
+            "like": false,
+            "inStock": true,
+            "imgSrc": "https://cdnprod.mafretailproxy.com/cdn-cgi/image/format=auto,onerror=redirect/sys-master-prod/hc2/he6/9699766337566/466399_main.jpg_480Wx480H"
+        },
+        {
+            "id": 2,
+            "title": "Product Two",
+            "price": 5000,
+            "brief": "This is a brief overview for this product and will be replaced soon with a real data whenever we use this demo",
+            "rating": 3.5,
+            "like": true,
+            "inStock": true,
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0049/8804/3337/products/ventum_9_12_1_on_large.jpg?v=1589554523"
+        },
+        {
+            "id": 3,
+            "title": "Product Three",
+            "price": 5000,
+            "brief": "This is a brief overview for this product and will be replaced soon with a real data whenever we use this demo",
+            "rating": 3.5,
+            "like": false,
+            "inStock": false,
+            "imgSrc": "https://cdnprod.mafretailproxy.com/cdn-cgi/image/format=auto,onerror=redirect/sys-master-prod/h13/h3e/9699808575518/437536_main.jpg_480Wx480H"
+        },
+        {
+            "id": 4,
+            "title": "Product Four",
+            "price": 5000,
+            "brief": "This is a brief overview for this product and will be replaced soon with a real data whenever we use this demo",
+            "rating": 3.5,
+            "like": false,
+            "inStock": true,
+            "imgSrc": "https://cdnprod.mafretailproxy.com/cdn-cgi/image/format=auto,onerror=redirect/sys-master-prod/h13/h3e/9699808575518/437536_main.jpg_480Wx480H"
+        },
+        {
+            "id": 5,
+            "title": "Product Five",
+            "price": 5000,
+            "brief": "This is a brief overview for this product and will be replaced soon with a real data whenever we use this demo",
+            "rating": 3.5,
+            "like": false,
+            "inStock": false,
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0049/8804/3337/products/arya_1_on_large.jpg?v=1589702139"
+        },
+        {
+            "id": 6,
+            "title": "Product Six",
+            "price": 5000,
+            "brief": "This is a brief overview for this product and will be replaced soon with a real data whenever we use this demo",
+            "rating": 3.5,
+            "like": true,
+            "inStock": true,
+            "imgSrc": "https://cdnprod.mafretailproxy.com/cdn-cgi/image/format=auto,onerror=redirect/sys-master-prod/h05/h17/9699776331806/356754_main.jpg_480Wx480H"
+        },
+        {
+            "id": 7,
+            "title": "Product Seven",
+            "price": 5000,
+            "brief": "This is a brief overview for this product and will be replaced soon with a real data whenever we use this demo",
+            "rating": 3.5,
+            "like": true,
+            "inStock": false,
+            "imgSrc": "https://www.ctc-n.org/sites/www.ctc-n.org/files/styles/large/public/117_viva_series_air_conditioner.jpg?itok=vv2UErEl"
+        },
+        {
+            "id": 8,
+            "title": "Product Eight",
+            "price": 5000,
+            "brief": "This is a brief overview for this product and will be replaced soon with a real data whenever we use this demo",
+            "rating": 3.5,
+            "like": true,
+            "inStock": true,
+            "imgSrc": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1585167331-lg-electronics-window-smart-air-conditioner-with-remote-1585167302.jpg?crop=1xw:1xh;center,top&resize=480:*"
+        },
+        {
+            "id": 9,
+            "title": "Product Nine",
+            "price": 5000,
+            "brief": "This is a brief overview for this product and will be replaced soon with a real data whenever we use this demo",
+            "rating": 3.5,
+            "like": true,
+            "inStock": true,
+            "imgSrc": "https://cdn.shopify.com/s/files/1/1825/9663/products/B01J7SIFP2.pt02_large.jpg?v=1576865277"
+        },
+        {
+            "id": 10,
+            "title": "Product Ten",
+            "price": 5000,
+            "brief": "This is a brief overview for this product and will be replaced soon with a real data whenever we use this demo",
+            "rating": 3.5,
+            "like": true,
+            "inStock": true,
+            "imgSrc": "https://hips.hearstapps.com/pop.h-cdn.co/assets/16/22/980x980/square-1464639846-fri.jpg?resize=480:*"
+        }
+    ]
 }
